@@ -7,3 +7,4 @@
 along with the oracle database connectivity.
 
 .>libraries which are used in the project are TKINTER,PYGAME,MUTAGEN.MP3
+https://github.com/Eshaanjainej/TUNESMITH/assets/150604431/35a9bf9e-6898-45b1-945c-fa4f35d0bceb
